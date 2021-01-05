@@ -1,0 +1,3 @@
+﻿  radius_weighted_oriented.cpp
+C:\Users\pilip\git\TIIT_sem2\Pre_course_work\tryin\radius_weighted_oriented.cpp(117,21): warning C4101: prosto: неиспользованная локальная переменная
+  tryin.vcxproj -> C:\Users\pilip\git\TIIT_sem2\Pre_course_work\x64\Debug\radius_weighted_oriented.exe

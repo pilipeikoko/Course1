@@ -1,0 +1,4 @@
+﻿  tiit2.2.cpp
+C:\Users\Xiaomi\source\repos\tiit2.2\tiit2.2\tiit2.2.cpp(51,37): warning C4101: cost: неиспользованная локальная переменная
+C:\Users\Xiaomi\source\repos\tiit2.2\tiit2.2\tiit2.2.cpp(46,11): warning C4101: fp: неиспользованная локальная переменная
+  tiit2.2.vcxproj -> C:\Users\Xiaomi\source\repos\tiit2.2\Debug\tiit2.2.exe

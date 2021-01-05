@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Xiaomi\source\repos\tiit 1.1\tiit 1.1\Header.h(8,2): warning C4091: typedef : пропускается слева от "Tree", когда ни одна переменная не объявлена
+  tiit 1.1.cpp
+C:\Users\Xiaomi\source\repos\tiit 1.1\tiit 1.1\Header.h(8,2): warning C4091: typedef : пропускается слева от "Tree", когда ни одна переменная не объявлена
+  Создание кода...
+  tiit 1.1.vcxproj -> C:\Users\Xiaomi\source\repos\tiit 1.1\Debug\tiit 1.1.exe

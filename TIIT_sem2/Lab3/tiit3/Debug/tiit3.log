@@ -1,0 +1,6 @@
+﻿  tiit3.cpp
+C:\Users\Xiaomi\source\repos\tiit3\tiit3\tiit3.cpp(72,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Xiaomi\source\repos\tiit3\tiit3\tiit3.cpp(97,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Xiaomi\source\repos\tiit3\tiit3\tiit3.cpp(123,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Xiaomi\source\repos\tiit3\tiit3\tiit3.cpp(137,23): warning C4018: <: несоответствие типов со знаком и без знака
+  tiit3.vcxproj -> C:\Users\Xiaomi\source\repos\tiit3\Debug\tiit3.exe
